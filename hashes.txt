@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noches de fuego
+
+This log tracks the cryptographic history and versioning for the song **Noches de fuego** (noches-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:07:57.511069 | `v1` | `b412e74252248bf50113e39a4d18caa47dbee6a007c064278e65c9b3e80369a1` | `9bc530b68ae5c4d16fc6ea9fbedee83f76d8bb2c37d6fd24a4cd3e1ffa208ed1` | `2026-06-15_noches-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
