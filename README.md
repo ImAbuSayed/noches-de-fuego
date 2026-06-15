@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noches de fuego, bailando en la oscuridad
+> Perdiendo el control, pura electricidad
+> Niña, apaga la razón y dame tu calor
+> Esta madrugada es nuestra, sin miedo al error
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
